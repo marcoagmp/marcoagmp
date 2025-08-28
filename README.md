@@ -10,7 +10,7 @@
 
 ## 🔎 Sobre mim
 Professor de Ciências Exatas (Física, Matemática, e Química) em processo de transição de carreira para a área da tecnologia. Meu maior foco é em como utilizar a Ciência de Dados na resolução de problemas complexos. Tenho uma enorme curiosidade na predição de estruturas de proteínas utilizando aprendizado de máquina.   
-## Habilidades 
+## 🛠️ Habilidades 
 
 <div align="center">
 
@@ -25,7 +25,7 @@ Professor de Ciências Exatas (Física, Matemática, e Química) em processo de 
 
 </div>
 
-## Fale comigo
+## 📌 Fale comigo
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marco-ant%C3%B4nio-gon%C3%A7alves7/)
