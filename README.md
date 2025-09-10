@@ -9,7 +9,7 @@
 </p>
 
 ## 🔎 Sobre mim
-Professor de Ciências Exatas (Física, Matemática, e Química) em processo de transição de carreira para a área da tecnologia. Meu maior foco é em como utilizar a Ciência de Dados na resolução de problemas complexos. Tenho uma enorme curiosidade na predição de estruturas de proteínas utilizando aprendizado de máquina.   
+Professor de Ciências Exatas (Física, Matemática e Química) em processo de transição de carreira para a área da tecnologia. Meu maior foco é em como utilizar a Ciência de Dados na resolução de problemas complexos. Tenho uma enorme curiosidade na predição de estruturas de proteínas utilizando aprendizado de máquina.   
 ## 🛠️ Habilidades 
 
 <div align="center">
