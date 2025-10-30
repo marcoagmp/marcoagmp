@@ -1,4 +1,3 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:0000FF,100:9400D3&section=header&reversal=false"/>
 
 <h1 align="center" style="color: #6e22e1ff">Marco Antônio G. M. Pereira</h1>
 
@@ -32,5 +31,3 @@ Professor de Ciências Exatas (Física, Matemática e Química) em processo de t
 [![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=red)](mailto:marcoantoniogdmp@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marcoagmp)
 </div>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:0000FF,100:9400D3&section=header&reversal=false"/>
