@@ -11,9 +11,7 @@
 
 Licenciado em Ciências Exatas, com Habilitação em Física, pela Universidade de São Paulo (IFSC-USP), onde realizei iniciação científica no Laboratório de Biofísica e Biologia Estrutural "Sérgio Mascarenhas" e utilizei técnicas de clonagem molecular, expressão e purificação de proteínas para o estudo de características biofísicas e estruturais de Septinas.
 
-Também atuei em projetos de extensão, trabalhando como monitor do Museu de Ciências do Centro de Divulgação Científica e Cultural (CDCC-USP) e do Espaço Interativo de Ciências (EIC-IFSC,USP) e realizei estágio nos anos finais do ensino fundamental e ensino médio, onde liderei projetos de Feira de Ciências regionais, tendo a honra de ser premiado como Educador Destaque.
-
-Atualmente sou estudante de Ciência de Dados pela Universidade Virtual do Estado de São Paulo (UNIVESP) e realizo estágio na consultoria [A3Data](https://a3data.com.br/), empresa especializada em soluções de Data & Analytics. Meu foco é atuar desenvolvendo sistemas inteligentes e autônomos que utilizam a intersecção de ferramentas de IA Generativa, Agentic AI e Cloud Computing para solucionar problemas de negócio no setor hospitalar.
+Atualmente sou estudante de Ciência de Dados pela UNIVESP e realizo estágio na consultoria [A3Data](https://a3data.com.br/), empresa especializada em soluções de Data & Analytics. Meu foco é atuar desenvolvendo sistemas multi agentes para solucionar problemas de negócio do setor hospitalar.
 
 Sou apaixonado por temas científicos e tecnológicos, com um grande interesse em Bioinformática e técnicas de Deep Learning para predição de estruturas protéicas.
 
